@@ -138,7 +138,7 @@ Cannabis (like almost all other "one year plants" too) can naturally procreate o
 *To generate best S_Days & S_Nights in analog or PLC terminology you use a "wiper-function" (analog within a range from at least 3h to 12h). To do sunrise/sunset you use the wiper-function as output for the first lamp and as start point of a command series. All other lamps get attached with an OnDelay+OffDelay combination to the previous lamp:*  
 
 ```
-Wiper---OnDelay1-OffDelay1---OnDelay2-OffDelay2---\\-OnDelay(n)-OffDelay(n)--
+Wiper---OnDelay1-OffDelay1---OnDelay2-OffDelay2---\\-OnDelay(n-1)-OffDelay(n-1)--
       |                    |                    |                           |
     Lamp1                Lamp2                Lamp3                       Lamp(n)
 ```
