@@ -8,7 +8,6 @@ Initiated in late May 2022, I'm really sorry and sad to can't set any kind of fo
 But I had to start now, cause a spontaneous joke 30 years ago led me to probably one of the most effective but also most unknown hacks to tweak the duration of growing indoor cannabis - finally able to lower the need of lightning-energy by 20% - 33%, just by knowing why we switch lights on and off - to switch better than most actually do:
 
 [**Indoor-Cannabis should not follow a repeating-cycle based on 24h.**](FastVegaFlowerLowPower.md)  
-*But please read the license first:*
 ```
 ------------------------------------------------------------------------                 
                            CaCooL 0.1a
