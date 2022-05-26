@@ -40,47 +40,47 @@ Pit Demmer 21-23/05/2022
 
 ## Content
 
-0. **Preambles**
+0. [**Preambles**](#0.0)
 
-    1. What is it about - try to feel it
+    1. [What is it about - try to feel it](#0.1)
 
-1. **Disambiguation**
+1. [**Disambiguation**](#1.0)
 		
-	1. Florin
-	2. Day & Night / S_Day & S_Night / Cycles & More
-	3. Seedling
-	4. Cutting
-	5. Clone
-	6. Vega
-	7. Flower
-	8. Indica
-	9. Sativa
-	10.	Ruderalis / "Automatics"
+	1. [Florin](#1.1)
+	2. [Day & Night / S_Day & S_Night / Cycles & More](#1.2)
+	3. [Seedling](#1.3)
+	4. [Cutting](#1.4)
+	5. [Clone](#1.5)
+	6. [Vega](#1.6)
+	7. [Flower](#1.7)
+	8. [Indica](#1.8)
+	9. [Sativa](#1.9)
+	10.	[Ruderalis / "Automatics"](#1.10)
 
-2. **Timing**
+2. [**Timing**](#2.0)
 
-    1. Generic Information
-	  2. PreVega
-	  3. Vega
-  	4. Flower
-	  5. Sunrise / Sunset / Clouding
-    6. Professional investigation setup
+    1. [Generic Information](#2.1)
+	  2. [PreVega](#2.2)
+	  3. [Vega](#2.3)
+  	4. [Flower](#2.4)
+	  5. [Sunrise / Sunset / Clouding](#2.5)
+    6. [Professional investigation setup](#2.6)
 
-3. **Not that important**
+3. [**Not that important**](#3.0)
 
-    1. About the initial author
-    2. Origin Story
+    1. [About the initial author](#3.1)
+    2. [Origin Story](#3.2)
 
-4. **Forgotten And ToDo**
+4. [**Forgotten And ToDo**](#4.0)
 ---
 
 <br>
 
-## 0. **Preambles**
+## 0. **Preambles**<a id='0.0'></a>
 
 <br>
 
-0.1 **What is it about - try to feel it**
+0.1 **What is it about - try to feel it**<a id='0.1'></a>
 
 The core of ***LetsGrowSmart*** hopefully helps unchaining your mind and technology from the earth given 365 times 24h-Day as something to respect while growing cannabis indoor - 24h are useless at all.  
 
@@ -115,16 +115,16 @@ Btw.:
 <br>
 
 		
-## 1. **Disambiguation**
+## 1. **Disambiguation**<a id='1.0'></a>
 
-1.1	**Florin**
+1.1	**Florin**<a id='1.1'></a>
 
 - A mix of plant hormones which tells an adult plant if it's time to flower or to stay in vegetative state.
 All Cannabis, but not "Ruderalis" aka "Automatics" starts the production of Florin primary depending on the ratio of day to night time they got within the previous day & night cycles.
 
 <br>
 
-1.2	**Day & Night / S_Day & S_Night / Cycles & More (*S = Smart*)**
+1.2	**Day & Night / S_Day & S_Night / Cycles & More (*S = Smart*)**<a id='1.2'></a>
 		
 		
 - The "Day" and "Night" taking each one flexible part of 24h.  
@@ -152,49 +152,49 @@ Wiper---OnDelay1-OffDelay1---OnDelay2-OffDelay2---\\-OnDelay(n-1)-OffDelay(n-1)-
 
 <br>     
                        
-1.3	**Seedling**
+1.3	**Seedling**<a id='1.3'></a>
 
 - A plant germinated from seed. Those plants need after germination 30-50 Cycles to mature into a state to be able to produce Florin.  
  
 <br>
 
-1.4	**Cutting**
+1.4	**Cutting**<a id='1.4'></a>
 
 - 5cm to 20cm long "tip" of a matured plant branch.
 
 <br>
 
-1.5 **Clone**
+1.5 **Clone**<a id='1.5'></a>
 
 - A cutting placed on a position (or inside a "system") to get roots.
 		
 <br>
 
-1.6 **Vega**
+1.6 **Vega**<a id='1.6'></a>
 
 - Succesful rooted cuttings and matured seedlings.
 
 <br>		
 		
-1.7 **Flower**
+1.7 **Flower**<a id='1.7'></a>
 
 - Ex vega plants - from the start of producing florin until the day of harvesting.
 
 <br>
 		
-1.8	**Sativa**
+1.8	**Sativa**<a id='1.8'></a>
 
 - Bullshit term for more equatorial and more high altitude influenced genetics. They almost need longer to mature and to flower - when driven within 24h cycles.
 		
 <br>
 
-1.9	**Indica**
+1.9	**Indica**<a id='1.9'></a>
 
 - Bullshit term for less equatorial and more low altitude influenced genetics. They are almost faster in maturing and much faster in flowering within 24h cycles.
 		
 <br>
 
-1.10	**Ruderalis / "Automatics"**
+1.10	**Ruderalis / "Automatics"**<a id='1.10'></a>
 
 - In opposition to Sativas and Indicas those Cannabis strains make their decision to start producing florin primary on their age and very independent from the daytime to nighttime ratio.  
 ***LetsGrowSmart** can't give you actually any proven advice how to speed up those genetics!*
@@ -205,9 +205,9 @@ Wiper---OnDelay1-OffDelay1---OnDelay2-OffDelay2---\\-OnDelay(n-1)-OffDelay(n-1)-
 
 <br>
 
-## 2. Timing
+## 2. Timing<a id='2.0'></a>
 
-2.1	**Generic Information**
+2.1	**Generic Information**<a id='2.1'></a>
 
 - Relatively independent from being in vega or flower the majority of strains can't do more than 8,5h of high efficient photosynthesis within one cycle of day and night time.  
 - But those 8,5h can't get realized within less than 10,5h - 11,5h hours. You have to do time lapse of your grow to find the many 15-30 minutes which sums up to this "lost" 2-3 hours where the plants need some clouds more than direct sun.  
@@ -223,7 +223,7 @@ But as a homegrower please start with just doing one room/tent your conventional
 
 <br>
 		
-2.2 **Pre Vega**
+2.2 **Pre Vega**<a id='2.2'></a>
 
 As long the plants try to build roots (the first 14 - 21 cycles) is not a lot metabolic work to do during the night.
 
@@ -235,7 +235,7 @@ As long the plants try to build roots (the first 14 - 21 cycles) is not a lot me
 
 <br>
 
-2.3 **Vega**
+2.3 **Vega**<a id='2.3'></a>
 
 | Quality |	std. timers | Sunrise (h) | Day (h) | Sunset (h) | Night (h) | Repetition (h) |
 | ------- | ----------- | ------- | --- | ------ | ----- | ---------- |
@@ -245,7 +245,7 @@ As long the plants try to build roots (the first 14 - 21 cycles) is not a lot me
 
 <br>
 
-2.4 **Flower**
+2.4 **Flower**<a id='2.4'></a>
 
 | Quality |	std. timers | Sunrise (h) | Day (h) | Sunset (h) | Night (h) | Repetition (h) |
 | ------- | ----------- | ------- | --- | ------ | ----- | ---------- |
@@ -255,7 +255,7 @@ As long the plants try to build roots (the first 14 - 21 cycles) is not a lot me
 
 <br>
 
-2.5 **Sunrise / Sunset / Clouding**
+2.5 **Sunrise / Sunset / Clouding**<a id='2.5'></a>
 
 **To be able to reach out highest "qualities" we must be able to simulate sunrise and sunset in a nice scale!**  
 **There is NO way around sunrise and sunset!**  
@@ -270,7 +270,7 @@ very strain and phenotype depending too. Therefore the examples above are just s
 
 <br>
 
-2.6 **Professional Investigation Setup**
+2.6 **Professional Investigation Setup**<a id='2.6'></a>
 
 Most important to know first is investigating "florin set and reset sensibility" without using sunrise or sunset. 
 
@@ -353,11 +353,11 @@ Impossible from now to give further advice without real results - math will tell
 
 <br>
 
-## 3. Not That Important
+## 3. Not That Important<a id='3.0'></a>
 
 <br>
 
-3.1 **About the initial author** 
+3.1 **About the initial author**<a id='3.1'></a> 
 		
 Born in 1967 - growing Cannabis since the early 80s. Three kids and actually seven grandchildren.  
 
@@ -378,7 +378,7 @@ If you are a rich guy and you want to help speeding up to save up to 20% - 33% o
 
 <br>
 
-3.2 **Origin Story**
+3.2 **Origin Story** <a id='3.2'></a>
 
 When my first seed germinated in 1981 there was no internet, no books, no friends - just my mother: "You can do this in your room but not in the garden - AND YOU HAVE TO STAY AWAY FROM THE SCENE!"  
 I was good and it took nearly 5 years until I touched the 1st time the scene and hash.  
@@ -410,7 +410,7 @@ It all was almost about a delayed/stressed/suppressed Metabolism and/or suppress
 
 <br>
 
-## 4. Forgotten & ToDo
+## 4. Forgotten & ToDo<a id='4.0'></a>
 
 - instead of messing up a harvest while "accidentally" on holiday, we can stretch the flower easily nearly as hard as we can compress.  
 
