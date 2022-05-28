@@ -156,7 +156,7 @@ Wiper---OnDelay1-OffDelay1---OnDelay2-OffDelay2---\\-OnDelay(n-1)-OffDelay(n-1)-
 - A regular week is 7 Days.  
 - S_Weeks are flexible with a real duration from 4 to 6 Days.  
         
-**The age of a plant depends almost just on the sum of day & night cycles. Independent if the cycles are following the 24h model or a smarter model.**
+**The age of a plant depends much more on the count of day & night cycles than on the absolute duration it takes to get this count of cycles done. Independent if the cycles are following the 24h model or a smarter model.**
 
 <br>     
                        
