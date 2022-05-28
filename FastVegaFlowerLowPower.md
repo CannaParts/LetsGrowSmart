@@ -41,7 +41,8 @@ Pit Demmer 21-23/05/2022
 
 0. [**Preambles**](#0.0)
 
-    1. [What is it about - cause we are already doing crazy stuff](#0.1)
+    1. [I'm not a scientist!](#0.1)
+    1. [What is it about - cause we are already doing crazy stuff](#0.2)
 
 1. [**Disambiguation**](#1.0)
 		
@@ -79,7 +80,15 @@ Pit Demmer 21-23/05/2022
 
 <br>
 
-0.1 **What is it about - cause we are already doing crazy stuff**<a id='0.1'></a>
+0.1 **I am not a scientist**<a id='0.1'></a>  
+
+Not my fault, that I was faster than real scientists.  
+Don't worry! 90% is about something I reproduced 1001 times. In systematically experiments I found multiple parameters to reach some "borders" and to start "trigger". All I conclude makes sense in what the results are. 10% is more evident cause it also fits into already science proven knowledge.  
+**Please! Help to bring evidence and to get rid of info which might be wrong in this repository.**
+
+<br>
+
+0.2 **What is it about - cause we are already doing crazy stuff**<a id='0.2'></a>
 
 The core of ***LetsGrowSmart*** hopefully helps unchaining your mind and technology from the earth given 365 times 24h-Day as something to respect while growing cannabis indoor - 24h are useless at all.  
 
