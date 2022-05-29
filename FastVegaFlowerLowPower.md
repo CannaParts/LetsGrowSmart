@@ -331,7 +331,7 @@ If 1.4 or 2.4 does not flower or time to harvest takes longer than x.1 we raise 
 
 We're already growing in all setups on a level equal or better than 12:12!  
 We almost can't see/feel anymore which setup the most effective might be, cause all setups will differ with the day of harvest by +/- 10 days, every setup will additional differ in the power usage until harvest. Last but not least will the yield also differ:  
-*All time two realistic cases possible why the setup with the lowest total weight, or the setup with the highest power usage or the most time taking setup can still be the most efficient one!*
+*All time two realistic cases are possible why the setup with the lowest total weight, or the setup with the highest power usage or the most time taking setup can still be the most efficient one!*
 
 | Test No. | Sunrise (h) | Day (h) | Sunset (h) | Night (h) | Repetition (h) |
 | -------- | ----------- | ----------- | ---------- | ------------- | ---------------- |
