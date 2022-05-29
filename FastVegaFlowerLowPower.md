@@ -83,8 +83,8 @@ Pit Demmer 21-23/05/2022
 0.1 **I am not a scientist**<a id='0.1'></a>  
 
 Not my fault, that I was faster than real scientists.  
-Don't worry! 90% is about something I reproduced 1001 times. In systematically experiments I found multiple parameters to reach some "borders" and to start "trigger". All I conclude makes sense in what the results are. 10% is more evident cause it also fits into already science proven knowledge.  
-**Please! Help to bring evidence and to get rid of info which might be wrong in this repository.**
+Don't worry! 90% is about something I reproduced since ~1992 for "1001" times. In plenty much too small (for real statistics) but systematically experiments I found multiple parameters to reach some bad "borders" and good "trigger". All I conclude makes sense in how my results are. 10% is more evident cause it also fits into already science proven knowledge - but worthless with missing footnotes/links - I know:  
+**So, please help to get this repository better if you can! Look for more evidence and to get rid of conclusions which might be wrong.**
 
 <br>
 
@@ -97,27 +97,27 @@ With practically doing ~5 flower-cycles per year on indoor locations, while know
 But we all also getting kind of daily evidence about the "shit" the plant can give on some of the in nature to expect conditions.  
 Day in and day out we magic the indoor-sun within no time on zenith and 12 or 18 hours later, again within no time, we let the "sun" disappear.  
 Hey! Come on!  
-Even exactly on the equator there is at least a 3/4 hour visible sunrise and sunset but you feel the 1001 changes in temperature and humidity for more than one hour longer   
+Even exactly on the equator there is at least a 3/4 hour visible sunrise and sunset but you feel the 1001 changes in temperature and humidity for more than one hour before and after.
 
 But a real strange thing seems the switch from the 18:6 to 12:12 timing!  
 From one "magic" ON with a 18h burning sun we switch into a 12 hours night instead of 6 hours like the weeks before. And just after that night the sun appears only for 12h from now. Not for 18h like all the weeks before.  
 Really?  
 Such an magic shift of 6h in the day to night time ratio within just one night? 
-On the latitudes where 18:6 and 12:12 exist naturally it takes ~3 months for that shift!  
+On the latitudes where 18:6 and 12:12 exist naturally it takes ~3 months for that shift and a kind of 12:12 exist just for 2 weeks but indoor we do 8-12 weeks! Strange but impressive.
 
-I hope you got, that the kind we are already switching grow lights on and off has almost nothing to do with the possible conditions a plant has to expect in nature. Please hold your mind as open to tweak around the 24h - as your mind and experience is fine with already tweaking even seasons like a crazy.
+I hope you got, that the kind we are already switching grow lights on and off has almost nothing to do with the possible conditions a plant has to expect in nature. Please hold your mind as open to hack around the 24h - as your mind and experience is fine with already hacking up to a seasons like a crazy.
 
 <br>
 
-Btw.:  
+Side fact:  
 **The missing sunrise and sunset is a real daily harm to the plants *and the climate* !**  
 - Changing the room temperature too fast messes up each time the vapor pressure. Up to that the plant can't "breath" for hours effective! It is also very often part of triggering mould. All lights the same second on/off changes the temperature too fast!   
 *Those two effects are more intensive with OldSchool (e.g. HPS) lightning than with LEDs.*  
 
-- Last but not least the plant can not switch the day/night hormones that fast like we switch lamps - each day at least a half hour gets lost at the start of day and even more at the start of night before the plants hormones are out of the worst irritations to get ready to do their specific day and night jobs.  
+- Last but not least the plant can not switch the day/night hormones that fast like we switch lamps - each day at least a half hour get lost at the start of day and seems little more than a half hour at the start of night. Day for day a useless hour before the plants hormones are out of the worst irritations to get ready to do their specific day and night jobs.   
 
 **But:**
-- the rapid 18/6 to 12/12 switch seems not to cause any measurable harm to the plant - even this switch looks related to the natural conditions much stranger.
+- the rapid 18/6 to 12/12 switch seems not to cause any measurable harm to the plant - even this season change looks related to the natural conditions much stranger.
 
 ---
 <br>
