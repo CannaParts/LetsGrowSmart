@@ -2,7 +2,7 @@
 
 **Supposed to develop into a famous free knowledge, link and technologies collection to grow Cannabis as resource-saving as possible.**  
 
-Initiated in late May 2022, I'm really sorry and sad to can't set any kind of focus to this project before April (rather June) 2023.  
+Initiated in late May 2022, I'm really sorry and sad to can't set any kind of focus to this project before ~~April (rather June)~~ January 2023.  
 *(While reading the already existing Documentation you may find hints on the reason.)*
 
 But I had to start now, cause a spontaneous joke 30 years ago led me to probably one of the most effective but also most unknown hacks to tweak the duration of growing indoor cannabis - finally able to lower the need of lightning-energy and flowering-time by 20% - 33%, just by better knowing why we switch lights on and off - to then switch better than we actually do:
